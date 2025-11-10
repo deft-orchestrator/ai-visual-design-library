@@ -1,0 +1,9 @@
+# Ignore artifacts
+dist
+build
+coverage
+.next
+storybook-static
+
+# Ignore configs
+pnpm-lock.yaml
